@@ -1,0 +1,6 @@
+hamza   60
+abd   70
+umer   40
+ahmad   30
+amar   20
+nagesh   50
